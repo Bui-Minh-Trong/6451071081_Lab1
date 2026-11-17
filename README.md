@@ -45,3 +45,4 @@
 
 > **Ghi chú:**
 > - Toàn bộ mã nguồn trong tất cả các câu đều tuân thủ nghiêm ngặt quy định của Giảng viên, in Họ tên và MSSV: `print("Họ và tên: Bùi Minh Trọng - MSSV: 6451071081")`.
+
