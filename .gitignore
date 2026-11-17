@@ -1,0 +1,14 @@
+# System & IDE files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Exclude original documents and raw datasets
+*.docx
+*.pdf
+*.txt
+*.tmp
+*.xlsx
+*.csv
